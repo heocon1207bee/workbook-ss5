@@ -1,0 +1,13 @@
+.App {
+  border: 1px solid black;
+  margin: 2em;
+  padding: 2em;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  gap: 10px;
+  padding: 1em;
+}
